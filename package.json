@@ -1,0 +1,22 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaotianHuMr/demo-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaotianHuMr/demo-app/issues"
+  },
+  "homepage": "https://github.com/yaotianHuMr/demo-app#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
